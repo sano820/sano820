@@ -1,38 +1,25 @@
-# 👋 Hi, I'm 박상선
+# Hello World!, I'm SangSun
 
-**AI 엔지니어 & AI 서비스 개발자**를 목표로 공부하고 있습니다.  
-모델을 만드는 것에서 끝나는 것이 아니라,  
-**실제로 사용 가능한 AI 서비스로 구현하고 배포**하는 것에 관심이 많습니다.
+I am pursuing a career as an **AI Engineer and AI Service Developer**, with a strong interest in the end-to-end process of turning models into deployable, user-facing AI services.
 
-## 🚀 What I Focus On
-
-- LLM & RAG 기반 서비스 개발
-- 머신러닝/딥러닝 모델 학습 · 평가 · 서빙
-- 간단한 MLOps (실험 관리, 버전 관리, Docker 등)
-
-## 🧩 Featured Projects
-
-- **RAG 기반 문서 질의응답 서비스**
-  - OpenAI / Hugging Face 임베딩 + FAISS 벡터 스토어
-  - FastAPI 백엔드 + Streamlit 간단 UI
-  - [Repo 링크](https://github.com/your-id/rag-doc-chat)
-
-- **ML 모델 서빙 예제 (FastAPI)**
-  - scikit-learn 모델 학습 후 pickle로 저장
-  - FastAPI로 REST API 제공 (`/predict`)
-  - Docker로 컨테이너라이징
-  - [Repo 링크](https://github.com/your-id/ml-api-service)
-
-- **데이터 분석 & 모델링 파이프라인**
-  - EDA → 전처리 → 피처 엔지니어링 → 모델 학습 → 성능 비교
-  - Jupyter Notebook + Python(pandas, scikit-learn)
-  - [Repo 링크](https://github.com/your-id/data-ml-pipeline)
 
 ## 🛠 Tech Stack
+#### Language
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/r-276DC3?style=flat&logo=r&logoColor=white"/>
+#### FrameWork
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/langchain-1C3C3C?style=flat&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=flat&logo=langgraph&logoColor=white"/>
+#### Infra
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/> 
 
-- **Language**: Python, R, SAS
-- **ML/AI**: scikit-learn, PyTorch, TensorFlow, LangChain, LangGraph
-- **Infra**: Docker
+
+## Featured Projects
+
+- [Repo Link](https://github.com/Personal-career/AGENT.git) LangGraph-based Portfolio Feedback & Mind-Mapping Chatbot Service
+
+- [Repo Link](https://github.com/sano820/AutoPlan-D.git) Decision Support Module for Optimizing Generative Processes Using Diffusion Architecture
+
+- [Repo Link]() **Projects**
+
 
 ## 📫 Contact & Links
 
