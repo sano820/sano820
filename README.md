@@ -7,7 +7,9 @@ I am pursuing a career as an **AI Engineer and AI Service Developer**, with a st
 #### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/r-276DC3?style=flat&logo=r&logoColor=white"/>
 #### FrameWork
-<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/langchain-1C3C3C?style=flat&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=flat&logo=langgraph&logoColor=white"/>
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/langchain-1C3C3C?style=flat&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=flat&logo=langgraph&logoColor=white"/> <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white"/>
+
 #### Infra
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/> 
 
@@ -18,7 +20,7 @@ I am pursuing a career as an **AI Engineer and AI Service Developer**, with a st
 
 - [Repo Link](https://github.com/sano820/AutoPlan-D.git) Decision Support Module for Optimizing Generative Processes Using Diffusion Architecture
 
-- [Repo Link]() **Projects**
+- [Repo Link](https://github.com/sano820/Wikimedia_dashboard.git) Building DashBoard about the Wikiemedia Streaming Recentchange Data
 
 
 ## 📫 Contact & Links
