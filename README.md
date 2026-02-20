@@ -2,6 +2,7 @@
 
 I am pursuing a career as an **AI Engineer and AI Service Developer**, with a strong interest in the end-to-end process of turning models into deployable, user-facing AI services.
 
+<br>
 
 ## 🛠 Tech Stack
 #### Language
@@ -13,16 +14,17 @@ I am pursuing a career as an **AI Engineer and AI Service Developer**, with a st
 #### Infra
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/> 
 
+<br>
 
 ## Featured Projects
 
-- [Repo Link](https://github.com/Personal-career/AGENT.git) LangGraph-based Portfolio Feedback & Mind-Mapping Chatbot Service
+- [Personal-career](https://github.com/Personal-career/AGENT.git) LangGraph-based Portfolio Feedback & Mind-Mapping Chatbot Service
 
-- [Repo Link](https://github.com/sano820/AutoPlan-D.git) Decision Support Module for Optimizing Generative Processes Using Diffusion Architecture
+- [AutoPlan-D](https://github.com/sano820/AutoPlan-D.git) Decision Support Module for Optimizing Generative Processes Using Diffusion Architecture
 
-- [Repo Link](https://github.com/sano820/Wikimedia_dashboard.git) Building DashBoard about the Wikiemedia Streaming Recentchange Data
+- [Wikimedia_dashboard](https://github.com/sano820/Wikimedia_dashboard.git) Building DashBoard about the Wikiemedia Streaming Recentchange Data
 
-
+<br>
 ## 📫 Contact & Links
 
 - Email: fjrmem2@naver.com  
