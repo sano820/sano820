@@ -1,4 +1,4 @@
-# Hello World!, I'm SangSun
+# Hello World!, I'm 상선
 
 I am pursuing a career as an **AI Engineer and AI Service Developer**, with a strong interest in the end-to-end process of turning models into deployable, user-facing AI services.
 
@@ -8,8 +8,9 @@ I am pursuing a career as an **AI Engineer and AI Service Developer**, with a st
 #### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/r-276DC3?style=flat&logo=r&logoColor=white"/>
 #### FrameWork
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>  
-<img src="https://img.shields.io/badge/langchain-1C3C3C?style=flat&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=flat&logo=langgraph&logoColor=white"/> <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Apache%20kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=apacheflink&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
 
 #### Infra
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/> 
@@ -22,26 +23,10 @@ I am pursuing a career as an **AI Engineer and AI Service Developer**, with a st
 
 - [AutoPlan-D](https://github.com/sano820/AutoPlan-D.git) Decision Support Module for Optimizing Generative Processes Using Diffusion Architecture
 
-- [Wikimedia_dashboard](https://github.com/sano820/Wikimedia_dashboard.git) Building DashBoard about the Wikiemedia Streaming Recentchange Data
+- [Wikimedia_dashboard](https://github.com/sano820/Wikimedia_dashboard.git) Building DashBoard about the Wikiemedia Streaming Data
 
 <br>
 ## 📫 Contact & Links
 
 - Email: fjrmem2@naver.com  
 
-
-<!--
-## Hi there 👋
-**sano820/sano820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
