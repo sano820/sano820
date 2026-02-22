@@ -26,7 +26,8 @@ I am pursuing a career as an **AI Engineer and AI Service Developer**, with a st
 - [Wikimedia_dashboard](https://github.com/sano820/Wikimedia_dashboard.git) Building DashBoard about the Wikiemedia Streaming Data
 
 <br>
-## 📫 Contact & Links
+
+## 📫 Contact
 
 - Email: fjrmem2@naver.com  
 
